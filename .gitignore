@@ -1,0 +1,6 @@
+build/
+*.bin
+*.elf
+*.map
+# Wi-Fi API version never finished pairing with the TV; kept out of the repo
+SamsungWifiRemote/
